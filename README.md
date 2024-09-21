@@ -4,13 +4,15 @@
 <body>
 <h1>Calculator App</h1>
 <h3><i>Built with React</i></h3>
+  ![Screenshot 2024-09-22 015037](https://github.com/user-attachments/assets/598e851a-645b-43ca-9939-752c88a49465)
 <h2>Overview</h2>
 <p>This project is a basic <b>Calculator Application</b> developed using <b>React.js</b>. The calculator provides basic arithmetic operations like addition, subtraction, multiplication, and division, along with extra features like clearing inputs, deleting characters, and calculating percentages.</p>
 
 <h2>Features</h2>
 <ul>
-<li><b>Basic Arithmetic Operations: </b>Add, subtract, multiply, and divide numbers.</li>
-<li><b>Clear All (AC): Clears the calculator input.</li>
+
+<li><b>Basic Arithmetic Operations:</b>Add, subtract, multiply, and divide numbers.</li>
+<li><b>Clear All (AC):Clears the calculator input.</li>
 <li><b>Delete (DEL): Removes the last entered digit or operation.</li>
 <li><b>Percentage Calculation (%): Calculate percentages in real-time.</li>
 <li><b>Responsive Design: Works well on both desktop and mobile devices.</li>
