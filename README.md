@@ -17,32 +17,9 @@
 <li><b>Modern UI: A clean, user-friendly interface built with modern web technologies.
 Folder Structure.</li>
 <h2>Folder Structure</h2>
-calculator-app/
-├── client/
-│   ├── node_modules/           # Installed dependencies
-│   ├── public/
-│   │   ├── favicon.ico         # App favicon
-│   │   ├── index.html          # Main HTML file
-│   │   ├── logo192.png         # App icon
-│   │   ├── logo512.png         # App icon
-│   │   ├── manifest.json       # Web app manifest
-│   │   ├── robots.txt          # SEO file for web crawlers
-│   └── src/
-│       ├── Assets/             # Image assets
-│       ├── App.css             # Main app-wide styling
-│       ├── App.js              # Main React component
-│       ├── App.test.js         # Test cases for the app
-│       ├── Calculator.css      # Styling for the calculator component
-│       ├── Calculator.jsx      # Calculator component
-│       ├── index.css           # Global styling
-│       ├── index.js            # Entry point for the app
-│       ├── logo.svg            # React logo
-│       ├── reportWebVitals.js  # For measuring performance
-│       ├── setupTests.js       # Test setup file
-├── .gitignore                  # Files to ignore in version control
-├── package-lock.json           # Lock file for npm dependencies
-├── package.json                # Project configuration
-├── README.md                   # This readme file
+
+![Screenshot 2024-09-22 014514](https://github.com/user-attachments/assets/41afd6da-5b47-46cb-be6b-ad6eb3c379cb)
+
 
 <h2>How to Run the Project Locally</h2>
 <ol>
