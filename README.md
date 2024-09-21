@@ -22,7 +22,7 @@ Folder Structure.</li>
 
 
 <h2>How to Run the Project Locally</h2>
-<ol>
+<ol type="1">
 <li><b>Clone the Repository:</b><br>
 git clone https://github.com/Faizah-Ali/Calculator.git<br>
 cd calculator-app/client</li>
@@ -31,6 +31,7 @@ cd calculator-app/client</li>
 </li>
 <li><b>Open the App:</b> Open your browser and navigate to:<br>http://localhost:3000</li>
 </ol>
+
 <h2>Usage</h2>
 <ul>
 <li><b>Perform Calculations:</b> Click on the number buttons to input values, and use the arithmetic operators (+, -, *, /) to perform operations.</li>
@@ -51,7 +52,7 @@ cd calculator-app/client</li>
 
 <h2>Contact</h2>
 <ul>
-<li><b>Email:</b> your-email@example.com</li>
+<li><b>Email:</b> faizahali2002@gmail.com</li>
 </ul>
 
 </body>
