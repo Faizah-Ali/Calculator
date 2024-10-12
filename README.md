@@ -4,7 +4,6 @@
 <body>
 <h1>Calculator App</h1>
 <h3><i>Built with React</i></h3>
-![Screenshot 2024-09-22 015037](https://github.com/user-attachments/assets/58548327-8673-4249-a2fb-28a086774203)
 
 <h2>Overview</h2>
 <p>This project is a basic <b>Calculator Application</b> developed using <b>React.js</b>. The calculator provides basic arithmetic operations like addition, subtraction, multiplication, and division, along with extra features like clearing inputs, deleting characters, and calculating percentages.</p>
